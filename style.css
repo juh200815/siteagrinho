@@ -3,11 +3,11 @@
     padding: 0;
 }
 body {
-    font-family: 'Poppins', sans-serif;
+    font-cursive: 'Poppins', sans-serif;
 }
 .cabecalho {
     background-color: #eba716;
-    color: white;
+    color: rgb(80, 46, 1);
     display: flex;
     justify-content: space-around;
     align-items: center;
