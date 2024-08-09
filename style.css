@@ -73,10 +73,6 @@ body {
     padding: 50px 0;
 }
 
-.campo-todos{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-}
 
 .rodape{
     background-color: rgb(209, 159, 19);
